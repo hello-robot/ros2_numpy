@@ -2,8 +2,13 @@
 Changelog for package ros2_numpy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.0.11 (2024-06-25)
+2.0.12 (2024-11-11)
 -------------------
+* Adds support for LaserScan messages (`#12 <https://github.com/Box-Robotics/ros2_numpy/pull/12>`_)
+* Contributors: Aniketh Seelam
+
+2.0.11 (2024-06-25)
+------------------
 * Removed dependency on nose
 * Contributors: Tom Panzarella
 

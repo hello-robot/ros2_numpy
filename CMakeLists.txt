@@ -18,6 +18,7 @@ if(BUILD_TESTING)
   ament_add_pytest_test(occupancygrids test/test_occupancygrids.py)
   ament_add_pytest_test(geometry test/test_geometry.py)
   ament_add_pytest_test(quaternions test/test_quat.py)
+  ament_add_pytest_test(laserscan test/test_laserscan.py)
 endif()
 
 ##############
